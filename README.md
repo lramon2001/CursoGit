@@ -5,3 +5,4 @@
 ### git commit -m "comentário" : realiza o commit
 ### git config --global user.name "seu nome" 
 ### git config --global user.email "seu email"
+### git revert hashDoCommit : desfaz um commit
