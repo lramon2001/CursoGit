@@ -6,4 +6,4 @@
 ### git config --global user.name "seu nome" 
 ### git config --global user.email "seu email"
 ### git revert hashDoCommit : desfaz um commit
-### git push -u origin main : envia o arquivo .git com o log de commits assim como os arquivos adiconados ao commit para o repositório remoto
+### git push -u origin main : envia o arquivo com o log de commits assim como os arquivos adiconados ao commit para o repositório remoto
