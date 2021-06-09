@@ -10,3 +10,5 @@
 ### git pull origin master : adiciona ao repositório local as alterações presentes no repositório remoto
 ### git branch nomeDaBranch : cria nova branch 
 ### git switch nomeDaBrannch : troca para a branch requerida
+### git fetch :  traz do repositório remoto todas informações sobre ele que ainda não estão no seu repositório local. Um detalhe muito importante: o comando git fetch NÃO incorpora essas mudanças, ou seja não realiza um merge
+### git merge: mescla as branches
