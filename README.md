@@ -8,3 +8,5 @@
 ### git revert hashDoCommit : desfaz um commit
 ### git push -u origin main : envia o arquivo com o log de commits assim como os arquivos adiconados ao commit para o repositório remoto
 ### git pull origin master : adiciona ao repositório local as alterações presentes no repositório remoto
+### git branch nomeDaBranch : cria nova branch 
+### git switch nomeDaBrannch : troca para a branch requerida
