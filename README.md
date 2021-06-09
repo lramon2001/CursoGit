@@ -12,3 +12,4 @@
 ### git switch nomeDaBrannch : troca para a branch requerida
 ### git fetch :  traz do repositório remoto todas informações sobre ele que ainda não estão no seu repositório local. Um detalhe muito importante: o comando git fetch NÃO incorpora essas mudanças, ou seja não realiza um merge
 ### git merge: mescla as branches
+### git checkout: Além de mudar de branch, o git checkout pode ser usado para voltar um determinado arquivo para seu estado na staged area. A staged area são os arquivos que estão prontos para serem comitados. Em outras palavras, são os arquivos que executamos o comando git add 
